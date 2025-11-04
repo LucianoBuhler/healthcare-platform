@@ -7,3 +7,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/LucianoBuhler/healthcare-frontend.git
+[submodule "db-layer"]
+	path = db-layer
+	url = https://github.com/LucianoBuhler/healthcare-db-layer.git
+[submodule "ingestion"]
+	path = ingestion
+	url = https://github.com/LucianoBuhler/healthcare-ingestion.git
