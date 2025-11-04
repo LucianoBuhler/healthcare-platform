@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/LucianoBuhler/healthcare-backend.git
+[submodule "middleware"]
+	path = middleware
+	url = https://github.com/LucianoBuhler/healthcare-middleware.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LucianoBuhler/healthcare-frontend.git
